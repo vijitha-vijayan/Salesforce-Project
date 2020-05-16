@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cooperative_Client__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>If the Client been associated with any Commercial Business</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Please tick the Box</inlineHelpText>
+    <label>Cooperative Client</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
